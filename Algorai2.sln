@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_uzduotis", "Algorai2\1_uzduotis.csproj", "{AEFA3553-4D96-459C-847F-CEF35F74A955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_uzduotis", "2_uzduotis\2_uzduotis.csproj", "{220E60AD-6F8C-4897-B76C-A621CED38647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_dalis", "1_dalis\1_dalis.csproj", "{D865DE82-6BFB-4AEE-8355-7A360020CED7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEFA3553-4D96-459C-847F-CEF35F74A955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEFA3553-4D96-459C-847F-CEF35F74A955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEFA3553-4D96-459C-847F-CEF35F74A955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEFA3553-4D96-459C-847F-CEF35F74A955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{220E60AD-6F8C-4897-B76C-A621CED38647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{220E60AD-6F8C-4897-B76C-A621CED38647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{220E60AD-6F8C-4897-B76C-A621CED38647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{220E60AD-6F8C-4897-B76C-A621CED38647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D865DE82-6BFB-4AEE-8355-7A360020CED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D865DE82-6BFB-4AEE-8355-7A360020CED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D865DE82-6BFB-4AEE-8355-7A360020CED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D865DE82-6BFB-4AEE-8355-7A360020CED7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {181CFC3C-7407-4716-B1E2-D082526D99FF}
+	EndGlobalSection
+EndGlobal

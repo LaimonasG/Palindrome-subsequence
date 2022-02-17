@@ -1,0 +1,15 @@
+C:\Users\laimi\Desktop\Algorai2\2_uzduotis\bin\Debug\2_uzduotis.exe.config
+C:\Users\laimi\Desktop\Algorai2\2_uzduotis\bin\Debug\2_uzduotis.exe
+C:\Users\laimi\Desktop\Algorai2\2_uzduotis\bin\Debug\2_uzduotis.pdb
+C:\Users\laimi\Desktop\Algorai2\2_uzduotis\obj\Debug\2_uzduotis.csprojAssemblyReference.cache
+C:\Users\laimi\Desktop\Algorai2\2_uzduotis\obj\Debug\2_uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\laimi\Desktop\Algorai2\2_uzduotis\obj\Debug\2_uzduotis.exe
+C:\Users\laimi\Desktop\Algorai2\2_uzduotis\obj\Debug\2_uzduotis.pdb
+C:\Users\laimi\Desktop\4 semestras\Algoritmų sudarymas ir analizė\2 laboras\Algorai2\2_uzduotis\obj\Debug\2_uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\laimi\Desktop\4 semestras\Algoritmų sudarymas ir analizė\2 laboras\Algorai2\2_uzduotis\obj\Debug\2_uzduotis.exe
+C:\Users\laimi\Desktop\4 semestras\Algoritmų sudarymas ir analizė\2 laboras\Algorai2\2_uzduotis\obj\Debug\2_uzduotis.pdb
+C:\Users\laimi\Desktop\4 semestras\Algoritmų sudarymas ir analizė\2 laboras\Algorai2\2_uzduotis\bin\Debug\2_uzduotis.exe.config
+C:\Users\laimi\Desktop\4 semestras\Algoritmų sudarymas ir analizė\2 laboras\Algorai2\2_uzduotis\bin\Debug\2_uzduotis.exe
+C:\Users\laimi\Desktop\4 semestras\Algoritmų sudarymas ir analizė\2 laboras\Algorai2\2_uzduotis\bin\Debug\2_uzduotis.pdb
+C:\Users\laimi\Desktop\4 semestras\Algoritmų sudarymas ir analizė\2 laboras\Algorai2\2_uzduotis\obj\Debug\2_uzduotis.csproj.AssemblyReference.cache
+C:\Users\laimi\Desktop\4 semestras\Algoritmų sudarymas ir analizė\2 laboras\Algorai2\2_uzduotis\obj\Debug\2_uzduotis.csproj.SuggestedBindingRedirects.cache

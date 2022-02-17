@@ -1,0 +1,7 @@
+C:\Users\laimi\Desktop\Algorai2\1_dalis\bin\Debug\1_dalis.exe.config
+C:\Users\laimi\Desktop\Algorai2\1_dalis\bin\Debug\1_dalis.exe
+C:\Users\laimi\Desktop\Algorai2\1_dalis\bin\Debug\1_dalis.pdb
+C:\Users\laimi\Desktop\Algorai2\1_dalis\obj\Debug\1_dalis.csprojAssemblyReference.cache
+C:\Users\laimi\Desktop\Algorai2\1_dalis\obj\Debug\1_dalis.csproj.CoreCompileInputs.cache
+C:\Users\laimi\Desktop\Algorai2\1_dalis\obj\Debug\1_dalis.exe
+C:\Users\laimi\Desktop\Algorai2\1_dalis\obj\Debug\1_dalis.pdb
